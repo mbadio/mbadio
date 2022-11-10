@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbadio
+- 👋 Hi, I’m Myrielle (@mbadio)
 - 👀 I’m interested in  Data Science
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate  on projects
